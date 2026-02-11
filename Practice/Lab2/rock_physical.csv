@@ -1,0 +1,1431 @@
+Ord No (sample number),Poros [% vol],k [W/m/K] (unsaturated),k [W/m/K] (saturated),Vp [m/s] (unsaturated),Vp [m/s] (saturated),Rock,Country,Area (region),Area (location),Stratigraphy (Chronostratigraphy)
+1,,2.57,,2850,,Fine sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+2,3.10,2.58,,4640,,Fine sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+3,3.94,3.09,,5040,,Fine sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+4,6.05,2.28,,4560,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+5,6.33,2.34,,4550,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+6,3.63,2.57,,3580,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+7,5.99,2.58,,4330,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+8,3.43,2.66,,3100,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+9,7.36,2.72,,4440,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+10,5.19,2.83,,4710,,Fine sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+11,12.07,2.58,,3250,,Fine sandstone,Germany,Mainz Basin,Erzweiler,Permo-Carboniferous (Rotliegend)
+12,12.32,3.37,,3910,,Fine sandstone,Germany,Mainz Basin,Essweiler,Permo-Carboniferous (Rotliegend)
+13,12.59,3.59,,3930,,Fine sandstone,Germany,Mainz Basin,Essweiler,Permo-Carboniferous (Rotliegend)
+14,17.16,2.20,3.59,2010,2930,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+15,18.13,2.26,3.65,2840,3280,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+16,17.99,2.27,,2610,,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+17,18.04,2.28,3.56,1810,3130,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+18,17.58,2.37,3.77,2790,3160,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+19,17.45,2.39,3.62,3010,3370,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+20,17.64,2.54,,3260,,Fine sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+21,23.51,1.68,,2510,,Fine sandstone,Germany,Mainz Basin,Kreimbach-Kaulbach,Permo-Carboniferous (Rotliegend)
+22,19.41,1.80,,2570,,Fine sandstone,Germany,Mainz Basin,Kreimbach-Kaulbach,Permo-Carboniferous (Rotliegend)
+23,8.85,1.98,,2630,,Fine sandstone,Germany,Mainz Basin,Kreimbach-Kaulbach,Permo-Carboniferous (Rotliegend)
+24,8.16,2.05,,3450,,Fine sandstone,Germany,Mainz Basin,Kreimbach-Kaulbach,Permo-Carboniferous (Rotliegend)
+25,9.25,2.20,,3610,,Fine sandstone,Germany,Mainz Basin,Kreimbach-Kaulbach,Permo-Carboniferous (Rotliegend)
+26,11.23,2.05,3.09,2690,3300,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+27,11.59,2.05,,2250,,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+28,12.38,2.08,3.24,2770,3320,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+29,12.36,2.11,3.35,2540,3360,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+30,13.81,2.11,3.20,2810,3380,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+31,12.25,2.14,3.18,3260,3530,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+32,12.52,2.17,3.46,3500,3820,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+33,12.46,2.18,3.35,3320,3680,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+34,12.17,2.25,3.21,3310,3780,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+35,12.72,2.29,3.37,3440,3600,Fine sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+36,19.52,2.01,,2980,,Fine sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+37,19.39,2.20,,3270,,Fine sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+38,19.42,2.25,,3460,,Fine sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+39,15.22,1.48,,2330,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+40,15.44,2.00,,3040,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+41,12.75,2.06,,3130,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+42,13.48,2.19,,3010,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+43,,2.22,,2730,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+44,13.62,2.31,,2890,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+45,13.93,2.37,,2600,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+46,12.84,2.44,,2740,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+47,12.49,2.47,,3230,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+48,4.76,2.49,3.23,3000,5740,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+49,7.46,2.54,3.32,4630,5740,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+50,4.20,2.68,,3400,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+51,4.42,2.69,3.36,4330,5460,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+52,5.07,2.69,,3200,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+53,5.90,2.73,3.36,3500,5630,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+54,6.59,2.77,3.47,4740,5960,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+55,2.44,2.78,,2950,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+56,6.43,2.79,,4560,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+57,6.70,2.79,3.49,4200,5710,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+58,7.86,2.80,3.46,4000,5720,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+59,5.27,2.88,3.50,4260,4980,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+60,6.38,3.01,3.61,4940,6310,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+61,6.94,3.06,,4030,,Fine sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+62,,2.39,,2710,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+63,,2.40,,2730,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+64,,2.41,,2650,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+65,,2.49,,2630,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+66,,2.56,,2790,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+67,,2.60,,2720,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+68,,2.61,,2850,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+69,,2.63,,2600,,Fine sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+70,,2.54,,2640,,Fine sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+71,,2.71,,2830,,Fine sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+72,,2.38,,3450,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+73,,2.51,,3680,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+74,,2.53,,3820,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+75,,2.54,,3510,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+76,,2.61,,3550,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+77,,2.97,,3660,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+78,,2.98,,3300,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+79,,3.09,,3680,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+80,,3.16,,3630,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+81,,3.33,,3540,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+82,,3.37,,3580,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+83,,3.44,,3670,,Fine sandstone,Germany,South German Scarplands,Stuttgart,Triassic (Keuper)
+84,6.84,2.66,,3770,,Fine sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+85,5.77,3.11,,3620,,Fine sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+86,5.96,3.25,,3930,,Fine sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+87,15.22,1.40,,1420,,Fine sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+88,19.28,1.69,,2490,,Fine sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+89,19.16,1.77,,2880,,Fine sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+90,,2.14,,2760,,Fine sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+91,,2.52,,2820,,Fine sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+92,14.63,2.19,,2750,,Medium sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+93,14.80,2.31,,2650,,Medium sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+94,14.10,2.38,,3140,,Medium sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+95,14.80,2.42,,3160,,Medium sandstone,Germany,Mainz Basin,Alsenz,Permo-Carboniferous (Rotliegend)
+96,20.70,1.89,,2520,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+97,20.99,1.89,,2470,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+98,,1.91,,2650,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+99,18.96,1.93,,2730,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+100,19.38,1.96,,2330,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+101,19.38,1.96,,2970,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+102,17.15,1.97,,3000,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+103,18.67,1.98,,2900,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+104,17.50,2.04,,3030,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+105,18.96,2.05,,2500,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+106,,2.05,,2600,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+107,,2.08,,3000,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+108,17.58,2.09,,2940,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+109,17.72,2.17,,2960,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+110,14.61,2.23,,2710,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+111,8.23,2.31,,3840,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+112,9.37,2.33,,3650,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+113,9.37,2.33,,3000,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+114,14.34,2.38,,2900,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+115,8.51,2.39,,3930,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+116,12.04,2.39,,3310,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+117,12.97,2.42,,3810,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+118,8.40,2.49,,3560,,Medium sandstone,Germany,Mainz Basin,Bad Kreuznach,Permo-Carboniferous (Rotliegend)
+119,7.88,1.95,,2320,,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+120,7.56,2.51,3.35,2550,4820,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+121,4.12,2.92,3.82,3240,5380,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+122,3.03,2.93,3.69,2990,5770,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+123,3.65,2.94,3.58,3110,5930,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+124,4.25,2.98,3.78,3150,6170,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+125,4.63,3.00,3.79,2940,5640,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+126,3.36,3.06,3.67,3170,6140,Medium sandstone,Germany,Mainz Basin,Cronenberg,Permo-Carboniferous (Rotliegend)
+127,15.73,2.03,,2990,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+128,14.03,2.15,,2440,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+129,15.05,2.24,3.52,2590,4070,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+130,16.48,2.24,,2280,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+131,14.05,2.25,,2620,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+132,15.34,2.25,3.55,2350,3990,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+133,15.05,2.30,,2770,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+134,16.70,2.30,3.59,2430,4170,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+135,17.88,2.30,3.66,2430,4310,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+136,16.33,2.31,,2810,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+137,16.50,2.31,,2920,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+138,16.36,2.33,,3050,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+139,16.84,2.33,,2870,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+140,16.53,2.34,3.66,2650,4260,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+141,16.33,2.36,3.64,2340,4070,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+142,14.44,2.38,,2760,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+143,16.84,2.39,3.57,2390,4040,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+144,16.62,2.40,3.66,2790,4230,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+145,14.45,2.43,,2880,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+146,13.86,2.44,,2860,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+147,11.90,2.51,,2980,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+148,12.85,2.52,,3860,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+149,12.71,2.53,,3800,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+150,14.09,2.55,,3390,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+151,13.80,2.60,,3710,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+152,15.36,2.64,,3850,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+153,14.66,2.69,,3580,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+154,14.24,2.71,,3510,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+155,11.68,2.75,,3800,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+156,14.12,2.76,,3980,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+157,12.71,2.77,,3810,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+158,13.07,2.77,,3800,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+159,12.26,2.86,,3780,,Medium sandstone,Germany,Mainz Basin,Lauterecken,Permo-Carboniferous (Rotliegend)
+160,15.16,2.18,3.44,2310,4060,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+161,15.78,2.19,3.48,2140,4200,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+162,15.75,2.24,3.76,2180,3910,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+163,15.46,2.28,,2270,,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+164,15.64,2.30,,3150,,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+165,15.95,2.30,3.70,2330,4020,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+166,13.97,2.31,3.61,2300,3930,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+167,15.45,2.31,3.71,2630,4320,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+168,15.54,2.39,3.78,2400,3950,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+169,16.18,2.41,,3120,,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+170,15.18,2.47,,2990,,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+171,15.32,2.57,,3860,,Medium sandstone,Germany,Mainz Basin,Lohnweiler,Permo-Carboniferous (Rotliegend)
+172,14.40,2.53,,3540,,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+173,17.12,2.53,,2990,,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+174,15.63,2.56,3.69,2780,4330,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+175,15.43,2.58,,2960,,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+176,17.06,2.58,3.59,2620,3720,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+177,16.55,2.61,3.81,3030,4420,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+178,17.24,2.63,,3740,,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+179,16.30,2.78,3.82,2920,4760,Medium sandstone,Germany,Mainz Basin,Odernheim,Permo-Carboniferous (Rotliegend)
+180,13.89,2.35,,2460,,Medium sandstone,Germany,Mainz Basin,Olsbrücken,Permo-Carboniferous (Rotliegend)
+181,13.41,2.38,,2730,,Medium sandstone,Germany,Mainz Basin,Olsbrücken,Permo-Carboniferous (Rotliegend)
+182,13.93,2.39,,2570,,Medium sandstone,Germany,Mainz Basin,Olsbrücken,Permo-Carboniferous (Rotliegend)
+183,14.50,2.62,,2790,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+184,14.83,2.76,,3220,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+185,14.69,2.78,,2980,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+186,15.00,2.84,,3010,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+187,14.06,2.88,,2990,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+188,13.77,2.91,,3270,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+189,14.91,2.92,,3200,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+190,14.42,2.93,,3560,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+191,13.28,2.95,,3130,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+192,14.43,2.99,,3030,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+193,13.24,3.04,,2920,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+194,15.16,3.05,,3360,,Medium sandstone,Germany,Mainz Basin,Orbis,Permo-Carboniferous (Rotliegend)
+195,21.69,1.68,,2220,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+196,20.88,1.73,,1830,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+197,20.28,1.75,,1740,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+198,20.45,1.77,,2160,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+199,20.69,1.79,,2270,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+200,22.16,1.80,,2090,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+201,21.92,1.87,,2100,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+202,21.38,1.88,,1920,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+203,22.17,1.89,,1830,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+204,20.01,1.94,,1980,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+205,21.54,1.95,,2240,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+206,19.66,1.97,,2300,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+207,20.96,1.98,,2520,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+208,21.93,2.00,,2690,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+209,21.64,2.02,3.43,1890,2820,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+210,21.96,2.04,,3010,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+211,21.39,2.05,3.38,2320,2870,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+212,18.37,2.06,,2500,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+213,21.55,2.07,,2570,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+214,20.24,2.08,,2890,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+215,21.66,2.08,,1910,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+216,20.48,2.11,,2910,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+217,21.03,2.12,,2660,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+218,21.23,2.12,3.58,2360,2850,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+219,21.79,2.13,3.71,2120,3110,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+220,20.73,2.16,,2900,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+221,19.16,2.19,,2900,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+222,21.54,2.19,3.75,2570,3390,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+223,21.19,2.20,3.48,2530,3040,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+224,20.17,2.21,,2900,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+225,21.66,2.23,,3040,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+226,20.84,2.26,,2780,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+227,14.48,2.28,,2900,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+228,21.92,2.29,,2380,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+229,21.40,2.33,,2740,,Medium sandstone,Germany,Mainz Basin,Rockenhausen,Permo-Carboniferous (Rotliegend)
+230,18.39,1.78,,2650,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+231,19.09,1.92,,2760,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+232,17.03,1.93,,2150,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+233,19.22,1.93,,2680,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+234,16.09,1.96,,2130,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+235,18.71,1.96,,2030,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+236,16.92,2.02,,2170,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+237,,2.02,,1790,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+238,17.84,2.03,,1960,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+239,,2.03,,2510,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+240,13.25,2.04,,2490,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+241,20.94,2.05,3.49,2030,3070,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+242,16.39,2.06,,1950,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+243,17.89,2.06,,2130,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+244,,2.06,,2270,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+245,,2.08,,2490,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+246,15.93,2.09,,1620,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+247,17.56,2.09,,2210,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+248,19.76,2.11,,2420,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+249,17.44,2.11,,2840,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+250,,2.11,,2630,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+251,16.90,2.13,,2360,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+252,15.08,2.13,,3100,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+253,,2.13,,2610,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+254,7.70,2.14,,1550,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+255,,2.15,,2600,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+256,,2.15,,2680,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+257,19.85,2.16,,2440,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+258,15.56,2.17,,2460,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+259,16.21,2.17,,2400,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+260,16.64,2.19,,2180,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+261,14.23,2.20,,2710,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+262,,2.22,,2420,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+263,,2.22,,1930,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+264,16.32,2.26,,2480,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+265,,2.28,,2830,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+266,,2.29,,3020,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+267,14.16,2.31,3.66,2450,3600,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+268,,2.31,,2710,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+269,13.99,2.34,3.98,2800,4130,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+270,17.93,2.34,,2420,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+271,16.73,2.35,,3140,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+272,14.26,2.41,3.62,2750,4010,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+273,14.65,2.42,,3320,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+274,14.67,2.42,,2650,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+275,16.73,2.42,,3170,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+276,,2.43,4.12,2590,4040,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+277,,2.44,,3890,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+278,15.72,2.47,,3050,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+279,13.69,2.52,3.76,2650,3980,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+280,,2.53,,4150,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+281,16.09,2.56,,2980,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+282,,2.56,,3450,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+283,13.54,2.58,4.00,2870,4270,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+284,14.80,2.58,,3850,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+285,16.29,2.58,,3070,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+286,13.40,2.59,,2800,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+287,14.82,2.60,,3320,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+288,,2.65,,3640,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+289,15.41,2.69,,3540,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+290,14.01,2.90,,3290,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+291,,2.93,,3340,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+292,14.36,2.97,,3160,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+293,14.80,2.98,,4010,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+294,3.47,3.00,,5070,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+295,,3.01,,3920,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+296,4.22,3.05,,4790,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+297,3.50,3.07,,4830,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+298,4.54,3.07,,4750,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+299,,3.10,,3480,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+300,,3.11,,3880,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+301,,3.14,,3900,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+302,2.95,3.15,,4520,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+303,14.53,3.16,,3440,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+304,,3.17,,4060,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+305,15.27,3.18,,4570,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+306,,3.18,,3250,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+307,,3.18,,3980,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+308,3.15,3.20,,4490,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+309,3.53,3.20,,4310,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+310,,3.20,,3870,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+311,,3.29,,4650,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+312,,3.31,,3320,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+313,,3.49,,3790,,Medium sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+314,,2.16,,2410,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+315,,2.32,,2570,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+316,,2.34,,2570,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+317,,2.35,,2590,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+318,,2.36,,2610,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+319,,2.39,,2490,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+320,,2.41,,2660,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+321,,2.44,,2420,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+322,,2.48,,2820,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+323,,2.50,,2800,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+324,,2.50,,2920,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+325,,2.51,,2980,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+326,,2.52,,2660,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+327,,2.53,,2660,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+328,,2.57,,3000,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+329,,2.58,,2890,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+330,,2.62,,2760,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+331,,2.64,,2550,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+332,,2.67,,3010,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+333,,2.71,,3090,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+334,,2.74,,3100,,Medium sandstone,Germany,Odenwald,Grasselbach,Triassic (Buntsandstein)
+335,,2.26,,2300,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+336,,2.26,,2570,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+337,,2.33,,2490,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+338,,2.37,,2740,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+339,,2.38,,2240,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+340,,2.41,,2530,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+341,,2.45,,2800,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+342,,2.48,,2460,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+343,,2.49,,2840,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+344,,2.55,,2770,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+345,,2.57,,2680,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+346,,2.60,,2810,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+347,,2.63,,2720,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+348,,2.63,,2790,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+349,,2.63,,2650,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+350,,2.65,,2810,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+351,,2.66,,3040,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+352,,2.66,,2790,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+353,,2.66,,2910,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+354,,2.68,,3080,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+355,,2.68,,2940,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+356,,2.71,,2620,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+357,,2.75,,2910,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+358,,2.79,,2800,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+359,,2.85,,3210,,Medium sandstone,Germany,Odenwald,Miltenberg,Triassic (Buntsandstein)
+360,,2.42,,2830,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+361,,2.56,,2700,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+362,,2.58,,2950,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+363,,2.58,,2610,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+364,,2.63,,2780,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+365,,2.67,,2910,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+366,,2.70,,2910,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+367,,2.72,,2980,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+368,,2.73,,3020,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+369,,2.75,,3050,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+370,,2.75,,3010,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+371,,2.78,,2860,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+372,,2.85,,3140,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+373,,2.91,,3110,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+374,,2.94,,3020,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+375,,3.11,,3640,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+376,,3.20,,3380,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+377,,3.24,,3670,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+378,,3.25,,3500,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+379,,3.25,,3510,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+380,,3.27,,3330,,Medium sandstone,Germany,Pfalz,Bad Dürkheim,Triassic (Buntsandstein)
+381,,2.71,,2400,,Medium sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+382,18.29,2.45,,2320,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+383,18.29,2.45,,2460,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+384,9.57,2.58,,2430,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+385,17.04,2.80,,2350,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+386,15.62,2.86,,2710,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+387,15.63,2.87,,2610,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+388,15.62,2.87,,2560,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+389,13.45,2.88,,2540,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+390,10.82,2.96,,3030,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+391,13.45,2.98,,3040,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+392,13.45,2.99,,3020,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+393,,3.00,,2780,,Medium sandstone,Germany,Schwarzwald,Calw,Triassic (Buntsandstein)
+394,19.16,2.07,,2500,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+395,19.27,2.11,,2580,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+396,13.41,2.31,,3130,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+397,15.94,2.41,,2730,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+398,15.80,2.47,,2720,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+399,13.89,2.51,,2880,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+400,16.35,2.51,,2460,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+401,8.91,2.60,,3170,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+402,12.66,2.62,,3340,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+403,12.33,2.62,,3080,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+404,12.07,2.64,,3250,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+405,11.95,2.66,,3180,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+406,7.32,2.68,,3280,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+407,13.34,2.69,,3060,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+408,12.51,2.70,,3980,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+409,13.41,2.73,,3000,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+410,15.23,2.73,,3140,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+411,15.08,2.74,,3040,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+412,11.44,2.75,,3400,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+413,12.51,2.76,,3440,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+414,12.84,2.80,,2990,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+415,11.98,2.82,,3550,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+416,10.80,2.83,,2980,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+417,6.93,2.83,,3510,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+418,11.27,2.84,,3370,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+419,11.07,2.87,,3370,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+420,6.98,2.89,,3610,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+421,11.46,2.94,,3690,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+422,11.10,3.00,,3540,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+423,7.86,3.01,,3160,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+424,8.28,3.01,,3620,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+425,9.19,3.05,,3810,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+426,6.03,3.10,,3320,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+427,12.90,3.30,,3180,,Medium sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+428,,2.07,,1960,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+429,,2.34,,2840,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+430,,2.43,,2680,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+431,,2.44,,2960,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+432,,2.65,,3470,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+433,,2.66,,3350,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+434,,2.67,,2780,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+435,,2.86,,2750,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+436,,2.91,,2690,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+437,,2.97,,3400,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+438,,3.06,,3350,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+439,,3.20,,3460,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+440,,3.57,,3670,,Medium sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+441,19.97,1.72,3.51,1760,2880,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+442,20.09,1.74,3.74,1750,3100,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+443,19.55,1.82,,1890,,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+444,19.72,1.87,3.69,1880,3370,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+445,19.25,1.88,,1730,,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+446,19.22,1.90,3.78,1580,3240,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+447,19.81,1.91,3.74,1300,3030,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+448,19.74,1.94,3.73,1510,3080,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+449,20.18,1.97,3.59,1890,3180,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+450,20.36,1.97,3.83,1960,3420,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+451,20.38,2.00,,1910,,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+452,19.81,2.02,3.78,1710,3210,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+453,20.10,2.06,3.71,2250,3490,Coarse sandstone,Germany,Mainz Basin,Altenglan,Permo-Carboniferous (Rotliegend)
+454,22.35,2.41,,3240,,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+455,20.90,2.45,3.85,2090,3390,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+456,23.10,2.46,,2790,,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+457,21.35,2.49,3.89,2260,3480,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+458,22.49,2.52,3.90,2800,3820,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+459,22.04,2.55,3.98,2590,3690,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+460,22.77,2.56,4.07,2760,3980,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+461,22.12,2.60,4.06,2460,3930,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+462,22.13,2.72,,3070,,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+463,21.54,2.73,4.03,2360,3780,Coarse sandstone,Germany,Mainz Basin,Große Wust,Permo-Carboniferous (Rotliegend)
+464,16.76,2.07,,2520,,Coarse sandstone,Germany,Mainz Basin,Hallgarten,Permo-Carboniferous (Rotliegend)
+465,16.81,2.35,,2090,,Coarse sandstone,Germany,Mainz Basin,Hallgarten,Permo-Carboniferous (Rotliegend)
+466,15.81,2.48,,2190,,Coarse sandstone,Germany,Mainz Basin,Hallgarten,Permo-Carboniferous (Rotliegend)
+467,14.35,2.46,,2260,,Coarse sandstone,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+468,19.39,2.17,,2670,,Coarse sandstone,Germany,Mainz Basin,Kirchheimbolanden,Permo-Carboniferous (Rotliegend)
+469,20.34,2.34,,2690,,Coarse sandstone,Germany,Mainz Basin,Kirchheimbolanden,Permo-Carboniferous (Rotliegend)
+470,20.61,2.40,,2520,,Coarse sandstone,Germany,Mainz Basin,Kirchheimbolanden,Permo-Carboniferous (Rotliegend)
+471,14.69,2.36,3.75,2760,4520,Coarse sandstone,Germany,Mainz Basin,Langen,Permo-Carboniferous (Rotliegend)
+472,14.52,2.58,3.93,2620,4320,Coarse sandstone,Germany,Mainz Basin,Langen,Permo-Carboniferous (Rotliegend)
+473,19.36,2.10,,2470,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+474,19.31,2.25,,2770,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+475,18.73,2.28,,2930,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+476,,2.35,,2500,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+477,,2.39,,2710,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+478,,2.43,,2330,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+479,,2.46,3.77,2330,4180,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+480,14.31,2.53,3.80,3140,5100,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+481,14.70,2.65,,2440,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+482,15.61,2.67,3.99,2590,3780,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+483,14.43,2.69,3.80,2840,4470,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+484,14.77,2.70,,2410,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+485,14.67,2.74,4.00,2980,4540,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+486,14.28,2.82,,2430,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+487,13.66,2.83,,2660,,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+488,13.97,2.98,3.88,2760,4230,Coarse sandstone,Germany,Mainz Basin,,Permo-Carboniferous (Rotliegend)
+489,,2.48,,2580,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+490,,2.52,,2390,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+491,,2.56,,2350,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+492,,2.60,,2700,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+493,,2.60,,2550,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+494,,2.69,,2850,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+495,,2.72,,2370,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+496,,2.73,,2630,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+497,,2.81,,2330,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+498,,2.82,,2530,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+499,,2.91,,2550,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+500,,2.91,,2410,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+501,,2.93,,2320,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+502,,2.94,,2400,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+503,,2.98,,2470,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+504,,3.05,,2490,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+505,,3.11,,2560,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+506,,3.17,,2650,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+507,,3.45,,2520,,Coarse sandstone,Germany,Schwarzwald,Altensteig,Triassic (Buntsandstein)
+508,14.50,2.21,,2390,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+509,13.03,2.41,,2050,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+510,12.86,2.87,,2880,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+511,10.95,3.19,,3200,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+512,11.35,3.37,,3340,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+513,8.31,3.39,,3310,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+514,10.07,3.41,,3710,,Coarse sandstone,Germany,Spessart,Sterbfritz,Triassic (Buntsandstein)
+515,,1.45,,2570,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+516,,1.46,,2380,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+517,,1.52,,2240,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+518,,1.54,,2080,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+519,,1.59,,2400,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+520,,1.59,,2210,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+521,,1.67,,2500,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+522,,1.68,,2250,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+523,,1.70,,2640,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+524,,1.71,,2600,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+525,,1.73,,2650,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+526,,1.74,,2400,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+527,,1.74,,2390,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+528,,1.75,,2700,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+529,,1.79,,2680,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+530,,1.80,,2630,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+531,,1.81,,2680,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+532,,1.81,,2650,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+533,,1.85,,2580,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+534,,1.87,,2670,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+535,,1.92,,2760,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+536,,1.92,,2630,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+537,,1.99,,2600,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+538,,2.30,,3580,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+539,,2.55,,3450,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+540,,2.57,,3320,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+541,,2.68,,2820,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+542,,2.74,,3310,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+543,,2.86,,3630,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+544,,2.88,,3300,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+545,,2.89,,3770,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+546,,2.95,,3630,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+547,,3.04,,3640,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+548,,3.09,,2880,,Coarse sandstone,Germany,Sprendlinger Horst,,Permo-Carboniferous (Rotliegend)
+549,,3.53,,3140,,Coarse sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+550,,3.84,,3850,,Coarse sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+551,,3.93,,3690,,Coarse sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+552,,4.06,,3770,,Coarse sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+553,,4.61,,4280,,Coarse sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+554,,4.64,,4360,,Coarse sandstone,Germany,Wetterau,,Permo-Carboniferous (Rotliegend)
+555,15.09,3.08,,2830,,Arkose,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+556,15.46,3.10,,3090,,Arkose,Germany,Mainz Basin,Hochstätten,Permo-Carboniferous (Rotliegend)
+557,21.65,2.31,,2950,,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+558,21.54,2.32,,2840,,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+559,21.59,2.42,4.32,2610,3940,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+560,22.07,2.43,,2930,,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+561,21.21,2.45,4.41,2710,3590,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+562,21.70,2.49,4.03,2490,3740,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+563,21.39,2.51,4.34,2550,3360,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+564,16.73,2.56,3.75,3040,4430,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+565,21.66,2.58,4.25,2580,3800,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+566,21.92,2.58,4.54,2630,3930,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+567,20.73,2.58,4.27,2380,3650,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+568,21.46,2.60,4.21,2670,4030,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+569,21.80,2.61,4.39,2430,3940,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+570,17.74,2.61,,2980,,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+571,16.76,2.62,,3670,,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+572,15.86,2.64,3.81,3140,5280,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+573,19.29,2.64,,2850,,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+574,19.74,2.65,4.47,2300,4330,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+575,17.05,2.66,3.82,2850,4620,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+576,15.89,2.73,3.73,3190,4560,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+577,20.86,2.73,4.36,2350,4150,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+578,21.13,2.73,4.59,2680,4400,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+579,19.86,2.74,4.51,2790,4070,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+580,15.88,2.75,3.72,2780,4640,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+581,16.32,2.75,3.63,3060,4310,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+582,19.18,2.77,4.37,2570,4610,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+583,13.64,2.82,3.80,3550,5210,Arkose,Germany,Mainz Basin,Langenthal,Permo-Carboniferous (Rotliegend)
+584,2.98,2.58,,4540,,Graywacke,Germany,Kellerwald,,Carboniferous
+585,2.98,2.60,,4660,,Graywacke,Germany,Kellerwald,,Carboniferous
+586,2.58,2.74,,4400,,Graywacke,Germany,Kellerwald,,Carboniferous
+587,2.58,2.88,,4890,,Graywacke,Germany,Kellerwald,,Carboniferous
+588,3.04,2.91,,3800,,Graywacke,Germany,Kellerwald,,Carboniferous
+589,3.04,2.94,,4680,,Graywacke,Germany,Kellerwald,,Carboniferous
+590,1.62,2.99,,4230,,Graywacke,Germany,Kellerwald,,Carboniferous
+591,2.74,3.38,,4930,,Graywacke,Germany,Kellerwald,,Carboniferous
+592,2.74,3.48,,4990,,Graywacke,Germany,Kellerwald,,Carboniferous
+593,1.83,3.96,,5740,,Graywacke,Germany,Kellerwald,,Carboniferous
+594,1.83,4.20,,5390,,Graywacke,Germany,Kellerwald,,Carboniferous
+595,,3.13,,3430,,Graywacke,Germany,East Hesse Highlands,Hitzerode,
+596,2.29,2.70,,4330,,Graywacke,Germany,,,
+597,5.64,3.14,,4250,,Graywacke,Germany,,,
+598,,3.49,,5700,,Graywacke,Germany,,,
+599,2.89,3.54,,4380,,Graywacke,Germany,,,
+600,2.94,2.49,,4180,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+601,0.61,2.54,,5910,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+602,0.94,2.63,,5080,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+603,0.48,2.65,,3890,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+604,0.94,2.80,,6030,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+605,0.66,3.00,,5880,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+606,0.28,3.50,,5630,,Graywacke,New Zealand,Central Volcanic Zone,Te Kawa,Mesozoic
+607,0.01,2.23,,4770,,Graywacke,New Zealand,Central Volcanic Zone,Waotu,Mesozoic
+608,,2.45,,5760,,Graywacke,New Zealand,Central Volcanic Zone,Waotu,Mesozoic
+609,0.17,2.49,,6270,,Graywacke,New Zealand,Central Volcanic Zone,Waotu,Mesozoic
+610,,2.49,,6260,,Graywacke,New Zealand,Central Volcanic Zone,Waotu,Mesozoic
+611,0.03,2.64,,5900,,Graywacke,New Zealand,Central Volcanic Zone,Waotu,Mesozoic
+612,0.13,2.71,,4260,,Graywacke,New Zealand,Central Volcanic Zone,Waotu,Mesozoic
+613,0.35,2.40,,5120,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+614,0.02,2.45,,5600,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+615,0.25,2.46,,4390,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+616,2.68,2.55,,6060,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+617,,2.55,,5930,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+618,,2.63,,6020,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+619,,2.64,,4310,,Graywacke,New Zealand,Central Volcanic Zone,Whitehall,Mesozoic
+620,,2.13,,5030,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+621,,2.14,,4970,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+622,,2.16,,5560,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+623,,2.16,,5570,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+624,,2.17,,5280,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+625,,2.17,,5420,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+626,,2.17,,5560,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+627,,2.18,,5500,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+628,,2.21,,5380,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+629,,2.21,,5790,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+630,,2.22,,5320,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+631,,2.22,,5650,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+632,,2.23,,5510,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+633,,2.23,,6090,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+634,,2.24,,5210,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+635,,2.24,,5030,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+636,,2.24,,5160,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+637,,2.24,,5610,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+638,,2.25,,5390,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+639,,2.25,,5820,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+640,,2.25,,4500,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+641,,2.27,,5490,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+642,,2.27,,5540,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+643,,2.28,,5800,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+644,,2.28,,5770,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+645,,2.28,,5320,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+646,,2.29,,5490,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+647,,2.29,,5110,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+648,,2.30,,5850,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+649,,2.30,,5670,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+650,,2.31,,5560,,Limestone,Germany,Franconian Jura,Kindingen,Jurassic (Malm)
+651,,2.48,,5110,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+652,,2.49,,5370,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+653,,2.50,,5250,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+654,,2.50,,5550,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+655,,2.51,,5220,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+656,,2.52,,4930,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+657,,2.52,,5440,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+658,,2.53,,5060,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+659,,2.53,,5230,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+660,,2.56,,5400,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+661,,2.56,,4870,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+662,,2.57,,5280,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+663,,2.57,,4850,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+664,,2.58,,5200,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+665,,2.59,,5250,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+666,,2.59,,5310,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+667,,2.59,,5050,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+668,,2.59,,5300,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+669,,2.64,,5290,,Limestone,Germany,Swabian Jura,Blaubeuren,Jurassic (Malm)
+670,5.88,2.30,,3220,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+671,4.99,2.36,,4870,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+672,2.76,2.38,,5800,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+673,3.76,2.40,,5140,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+674,2.70,2.43,,3880,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+675,2.95,2.43,,3980,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+676,2.94,2.43,,4130,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+677,3.61,2.45,,5650,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+678,4.84,2.45,,6040,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+679,3.52,2.46,,6080,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+680,2.14,2.47,,5260,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+681,2.27,2.47,,5940,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+682,4.07,2.48,,4800,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+683,2.16,2.48,,5990,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+684,2.31,2.49,,3990,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+685,3.65,2.50,,3780,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+686,2.76,2.51,,5780,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+687,2.54,2.52,,4260,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+688,4.06,2.52,,4970,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+689,3.52,2.53,,3380,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+690,4.09,2.53,,4040,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+691,2.43,2.53,,5240,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+692,6.02,2.53,,4120,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+693,2.67,2.53,,6230,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+694,3.96,2.54,,5690,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+695,3.95,2.55,,4190,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+696,2.12,2.56,,6450,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+697,2.48,2.59,,4250,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+698,2.46,2.59,,3470,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+699,5.76,2.59,,5480,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+700,1.53,2.63,,5400,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+701,2.21,2.63,,4150,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+702,2.60,2.64,,4220,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+703,2.81,2.69,,4090,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+704,1.44,2.69,,5450,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+705,0.90,2.70,,5230,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+706,0.12,2.74,,6140,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+707,0.78,2.77,,4340,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+708,5.33,2.78,,4350,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+709,3.35,2.80,,4300,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+710,1.11,2.83,,5350,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+711,2.58,2.88,,4650,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+712,0.90,2.95,,4260,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+713,2.49,3.00,,5400,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+714,2.25,3.04,,3660,,Limestone,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+715,,1.80,,3370,,Limestone,Germany,,,Jurassic (Malm)
+716,,1.88,,4490,,Limestone,Germany,,,Jurassic (Malm)
+717,,2.16,,5040,,Limestone,Germany,,,Jurassic (Malm)
+718,,2.21,,4710,,Limestone,Germany,,,Jurassic (Malm)
+719,,2.31,,4670,,Limestone,Germany,,,Jurassic (Malm)
+720,,2.34,,3860,,Limestone,Germany,,,Jurassic (Malm)
+721,,2.37,,2600,,Limestone,Germany,,,
+722,,2.51,,4340,,Limestone,Germany,,,Jurassic (Malm)
+723,,2.52,,4650,,Limestone,Germany,,,Jurassic (Malm)
+724,,2.56,,4810,,Limestone,Germany,,,Jurassic (Malm)
+725,,2.59,,4870,,Limestone,Germany,,,Jurassic (Malm)
+726,,2.72,,5800,,Limestone,Germany,,,Jurassic (Malm)
+727,,2.74,,4910,,Limestone,Germany,,,Jurassic (Malm)
+728,,2.25,,4100,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+729,2.61,2.31,,5880,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+730,1.62,2.38,,4450,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+731,1.07,2.44,,3940,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+732,1.69,2.45,,4340,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+733,1.80,2.48,,4860,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+734,2.28,2.50,,6150,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+735,2.62,2.51,,5630,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+736,1.47,2.51,,4390,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+737,2.63,2.52,,4740,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+738,0.65,2.52,,4850,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+739,0.69,2.52,,5270,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+740,1.35,2.53,,6640,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+741,1.43,2.54,,4550,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+742,0.75,2.55,,5830,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+743,0.89,2.55,,6910,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+744,1.63,2.56,,7030,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+745,1.42,2.57,,3970,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+746,1.61,2.57,,5780,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+747,1.25,2.58,,6570,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+748,0.52,2.58,,4490,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+749,1.10,2.58,,5370,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+750,1.17,2.59,,3760,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+751,1.99,2.61,,3560,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+752,1.89,2.61,,4430,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+753,1.48,2.61,,4990,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+754,1.69,2.62,,5370,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+755,2.75,2.62,,3060,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+756,1.11,2.63,,4860,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+757,0.88,2.64,,4010,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+758,0.55,2.64,,4600,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+759,1.25,2.64,,4800,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+760,0.81,2.65,,5880,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+761,0.21,2.66,,5000,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+762,0.57,2.70,,4820,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+763,1.83,2.71,,4280,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+764,0.24,2.73,,4960,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+765,0.33,2.75,,3130,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+766,0.13,2.75,,5830,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+767,,2.76,,5770,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+768,,2.78,,5910,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+769,0.31,2.78,,5490,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+770,0.61,2.80,,5110,,Marl,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+771,,2.84,,3020,,Dolomite,Germany,Kellerwald,,Permian (Zechstein)
+772,,2.86,,3020,,Dolomite,Germany,Kellerwald,,Permian (Zechstein)
+773,3.68,2.45,,6410,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+774,2.88,2.51,,6140,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+775,0.92,2.55,,5520,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+776,2.14,2.60,,4320,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+777,2.92,2.61,,4470,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+778,1.77,2.62,,6670,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+779,2.94,2.62,,5040,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+780,4.30,2.63,,5640,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+781,6.51,2.64,,4140,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+782,1.15,2.65,,6390,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+783,2.18,2.66,,6270,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+784,0.38,2.66,,6380,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+785,3.90,2.68,,5020,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+786,1.57,2.69,,6870,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+787,0.55,2.69,,5890,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+788,0.69,2.70,,5620,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+789,0.28,2.71,,4740,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+790,1.15,2.73,,3660,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+791,4.84,2.74,,4040,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+792,1.05,2.76,,5360,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+793,2.51,2.82,,3730,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+794,4.42,2.83,,4980,,Dolomite,Germany,Swabian Jura,Merklingen,Jurassic (Malm)
+795,,2.68,,4850,,Marble,Italy,Piedmont,Prali,
+796,,2.73,,4580,,Marble,Italy,Piedmont,Prali,
+797,,2.74,,4600,,Marble,Italy,Piedmont,Prali,
+798,,2.74,,4770,,Marble,Italy,Piedmont,Prali,
+799,,2.74,,5100,,Marble,Italy,Piedmont,Prali,
+800,,2.75,,3570,,Marble,Italy,Piedmont,Prali,
+801,,2.76,,4990,,Marble,Italy,Piedmont,Prali,
+802,,2.79,,3420,,Marble,Italy,Piedmont,Prali,
+803,,2.82,,4610,,Marble,Italy,Piedmont,Prali,
+804,,2.86,,3280,,Marble,Italy,Piedmont,Prali,
+805,,3.20,,6080,,Marble,Italy,Piedmont,Prali,
+806,,3.30,,3460,,Marble,Italy,Piedmont,Prali,
+807,,3.33,,3260,,Marble,Italy,Piedmont,Prali,
+808,,3.44,,3350,,Marble,Italy,Piedmont,Prali,
+809,,2.62,,2490,,Marble,,,,
+810,,2.72,,2430,,Marble,,,,
+811,,2.72,,2460,,Marble,,,,
+812,,2.74,,2680,,Marble,,,,
+813,,2.74,,2560,,Marble,,,,
+814,,2.76,,2710,,Marble,,,,
+815,,2.77,,2410,,Marble,,,,
+816,,2.77,,2500,,Marble,,,,
+817,,2.78,,2700,,Marble,,,,
+818,,2.78,,2650,,Marble,,,,
+819,,2.80,,2450,,Marble,,,,
+820,,2.80,,2440,,Marble,,,,
+821,,2.80,,2300,,Marble,,,,
+822,,2.80,,2530,,Marble,,,,
+823,,2.81,,2450,,Marble,,,,
+824,,2.82,,2430,,Marble,,,,
+825,,2.82,,2840,,Marble,,,,
+826,,2.84,,2390,,Marble,,,,
+827,,2.84,,2550,,Marble,,,,
+828,,2.85,,2720,,Marble,,,,
+829,,2.85,,2620,,Marble,,,,
+830,,2.85,,2420,,Marble,,,,
+831,,2.89,,2570,,Marble,,,,
+832,,2.93,,2600,,Marble,,,,
+833,,1.62,,4090,,Coquina,,,,
+834,,1.62,,4380,,Coquina,,,,
+835,,1.63,,3810,,Coquina,,,,
+836,,1.64,,4150,,Coquina,,,,
+837,,1.66,,3680,,Coquina,,,,
+838,,1.67,,3850,,Coquina,,,,
+839,,1.67,,4200,,Coquina,,,,
+840,,1.68,,4880,,Coquina,,,,
+841,,1.70,,3880,,Coquina,,,,
+842,,1.71,,3570,,Coquina,,,,
+843,,1.71,,4390,,Coquina,,,,
+844,,1.72,,4070,,Coquina,,,,
+845,,1.72,,4240,,Coquina,,,,
+846,,1.75,,4040,,Coquina,,,,
+847,,1.76,,3990,,Coquina,,,,
+848,,1.76,,3770,,Coquina,,,,
+849,,1.78,,4370,,Coquina,,,,
+850,,1.79,,3760,,Coquina,,,,
+851,,1.79,,3510,,Coquina,,,,
+852,,1.79,,3650,,Coquina,,,,
+853,,1.80,,3830,,Coquina,,,,
+854,,1.81,,3640,,Coquina,,,,
+855,,1.83,,3980,,Coquina,,,,
+856,,1.86,,4370,,Coquina,,,,
+857,,1.86,,3690,,Coquina,,,,
+858,,1.88,,3890,,Coquina,,,,
+859,,1.90,,3550,,Coquina,,,,
+860,,1.91,,3910,,Coquina,,,,
+861,,1.91,,3140,,Coquina,,,,
+862,,1.92,,4070,,Coquina,,,,
+863,,1.92,,3760,,Coquina,,,,
+864,,1.93,,3690,,Coquina,,,,
+865,,1.93,,3300,,Coquina,,,,
+866,,1.94,,3640,,Coquina,,,,
+867,,1.95,,3750,,Coquina,,,,
+868,,1.96,,4200,,Coquina,,,,
+869,,1.98,,3310,,Coquina,,,,
+870,,1.99,,3500,,Coquina,,,,
+871,,2.01,,3590,,Coquina,,,,
+872,,2.02,,4100,,Coquina,,,,
+873,,2.03,,3510,,Coquina,,,,
+874,,2.04,,3970,,Coquina,,,,
+875,,2.06,,3690,,Coquina,,,,
+876,,2.09,,3730,,Coquina,,,,
+877,,2.13,,3150,,Coquina,,,,
+878,,2.18,,3760,,Coquina,,,,
+879,,2.19,,4100,,Coquina,,,,
+880,,2.31,,3780,,Coquina,,,,
+881,3.23,2.22,,5380,,Gabbro,Germany,Odenwald,Darmstadt,Paleozoic
+882,4.55,2.32,,5460,,Gabbro,Germany,Odenwald,Darmstadt,Paleozoic
+883,,2.37,,5830,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+884,,2.37,,6530,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+885,,2.38,,5690,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+886,,2.39,,6130,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+887,,2.40,,6120,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+888,,2.41,,6190,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+889,,2.42,,6010,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+890,,2.45,,6060,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+891,,2.48,,6500,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+892,,2.49,,6140,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+893,,2.49,,5810,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+894,,2.52,,5730,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+895,,2.52,,5910,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+896,,2.53,,5460,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+897,,2.56,,6150,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+898,,2.57,,6220,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+899,,2.57,,6040,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+900,,2.58,,5670,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+901,,2.58,,6280,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+902,,2.61,,5590,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+903,,2.62,,5900,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+904,,2.62,,5860,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+905,,2.63,,6120,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+906,,2.67,,5800,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+907,,2.72,,5710,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+908,,2.72,,5850,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+909,,2.72,,5760,,Gabbro,Germany,Odenwald,Groß-Bieberau,
+910,,2.21,,6340,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+911,,2.27,,6600,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+912,,2.29,,5820,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+913,,2.31,,6540,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+914,,2.33,,6560,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+915,,2.33,,6380,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+916,,2.42,,6340,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+917,0.06,2.90,,5470,,Gabbro,Germany,Odenwald,Nieder-Beerbach,Paleozoic
+918,,2.04,,6190,,Gabbro,Germany,Odenwald,Waschenbach,
+919,,2.07,,5820,,Gabbro,Germany,Odenwald,Waschenbach,
+920,,2.09,,6000,,Gabbro,Germany,Odenwald,Waschenbach,
+921,,2.09,,6790,,Gabbro,Germany,Odenwald,Waschenbach,
+922,,2.11,,6710,,Gabbro,Germany,Odenwald,Waschenbach,
+923,,2.12,,5070,,Gabbro,Germany,Odenwald,Waschenbach,
+924,,2.12,,7030,,Gabbro,Germany,Odenwald,Waschenbach,
+925,,2.14,,7010,,Gabbro,Germany,Odenwald,Waschenbach,
+926,,2.15,,6040,,Gabbro,Germany,Odenwald,Waschenbach,
+927,,2.15,,6770,,Gabbro,Germany,Odenwald,Waschenbach,
+928,,2.17,,6190,,Gabbro,Germany,Odenwald,Waschenbach,
+929,,2.18,,7190,,Gabbro,Germany,Odenwald,Waschenbach,
+930,,2.19,,5970,,Gabbro,Germany,Odenwald,Waschenbach,
+931,,2.20,,6770,,Gabbro,Germany,Odenwald,Waschenbach,
+932,,2.20,,6120,,Gabbro,Germany,Odenwald,Waschenbach,
+933,,2.21,,6370,,Gabbro,Germany,Odenwald,Waschenbach,
+934,,2.21,,6920,,Gabbro,Germany,Odenwald,Waschenbach,
+935,,2.22,,6010,,Gabbro,Germany,Odenwald,Waschenbach,
+936,,2.25,,6250,,Gabbro,Germany,Odenwald,Waschenbach,
+937,,2.26,,7210,,Gabbro,Germany,Odenwald,Waschenbach,
+938,,2.27,,6960,,Gabbro,Germany,Odenwald,Waschenbach,
+939,,2.30,,6320,,Gabbro,Germany,Odenwald,Waschenbach,
+940,,2.32,,6510,,Gabbro,Germany,Odenwald,Waschenbach,
+941,,2.34,,6320,,Gabbro,Germany,Odenwald,Waschenbach,
+942,,2.35,,6610,,Gabbro,Germany,Odenwald,Waschenbach,
+943,,2.40,,6340,,Gabbro,Germany,Odenwald,Waschenbach,
+944,,2.40,,7360,,Gabbro,Germany,Odenwald,Waschenbach,
+945,,2.41,,6360,,Gabbro,Germany,Odenwald,Waschenbach,
+946,,2.43,,6880,,Gabbro,South Africa,Drakensbergen,,
+947,,2.45,,6410,,Gabbro,South Africa,Drakensbergen,,
+948,,2.48,,6480,,Gabbro,South Africa,Drakensbergen,,
+949,,2.49,,7060,,Gabbro,South Africa,Drakensbergen,,
+950,,2.55,,5980,,Gabbro,South Africa,Drakensbergen,,
+951,,2.56,,6790,,Gabbro,South Africa,Drakensbergen,,
+952,,2.58,,7080,,Gabbro,South Africa,Drakensbergen,,
+953,,2.60,,6280,,Gabbro,South Africa,Drakensbergen,,
+954,,2.60,,6810,,Gabbro,South Africa,Drakensbergen,,
+955,,2.61,,6780,,Gabbro,South Africa,Drakensbergen,,
+956,,2.61,,5950,,Gabbro,South Africa,Drakensbergen,,
+957,,2.62,,6750,,Gabbro,South Africa,Drakensbergen,,
+958,,2.62,,6000,,Gabbro,South Africa,Drakensbergen,,
+959,,2.63,,5970,,Gabbro,South Africa,Drakensbergen,,
+960,,2.63,,6000,,Gabbro,South Africa,Drakensbergen,,
+961,,2.64,,6440,,Gabbro,South Africa,Drakensbergen,,
+962,,2.65,,6650,,Gabbro,South Africa,Drakensbergen,,
+963,,2.66,,5400,,Gabbro,South Africa,Drakensbergen,,
+964,,2.69,,6320,,Gabbro,South Africa,Drakensbergen,,
+965,,2.38,,6470,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+966,,2.38,,5930,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+967,,2.41,,5410,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+968,,2.42,,6060,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+969,,2.45,,6190,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+970,,2.45,,5290,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+971,,2.49,,5830,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+972,,2.52,,6010,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+973,,2.56,,5830,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+974,,2.57,,5780,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+975,,2.58,,5830,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+976,,2.64,,5600,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+977,,2.65,,5900,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+978,,2.65,,5840,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+979,,2.68,,5770,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+980,,2.73,,5850,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+981,,2.83,,5780,,Gabbrodiorite,Germany,Odenwald,Groß-Bieberau,Paleozoic
+982,,1.81,,3300,,Diorite,Germany,Sprendlinger Horst,Darmstadt,Paleozoic
+983,,2.31,,6050,,Diorite,Germany,Sprendlinger Horst,Darmstadt,Paleozoic
+984,0.42,2.29,,6060,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+985,1.29,2.32,,4940,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+986,1.65,2.35,,5590,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+987,2.30,2.35,,6000,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+988,1.18,2.39,,5920,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+989,,2.41,,5760,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+990,0.84,2.46,,6320,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+991,1.20,2.47,,5800,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+992,0.77,2.52,,5840,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+993,0.37,2.52,,6070,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+994,0.34,2.52,,6810,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+995,0.45,2.53,,5080,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+996,0.97,2.54,,5710,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+997,0.59,2.54,,6090,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+998,0.28,2.56,,5480,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+999,1.01,2.57,,5070,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1000,2.60,2.57,,4540,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1001,0.53,2.57,,6490,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1002,1.20,2.58,,6000,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1003,1.09,2.62,,4560,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1004,1.38,2.76,,6430,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1005,,2.92,,7620,,Diorite,Germany,Sprendlinger Horst,"Messel, Well GA1",Paleozoic
+1006,1.98,2.63,,4540,,Granodiorite,Germany,Odenwald,Darmstadt,Paleozoic
+1007,1.25,3.03,,6810,,Granodiorite,Germany,Odenwald,Darmstadt,Paleozoic
+1008,,1.92,,2560,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1009,,1.96,,2170,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1010,,2.08,,2640,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1011,,2.23,,4800,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1012,,2.25,,4300,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1013,,2.27,,3940,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1014,,2.31,,5270,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1015,,2.34,,4580,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1016,,2.35,,4860,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1017,,2.38,,4590,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1018,,2.41,,5400,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1019,,2.44,,4800,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1020,,2.46,,5400,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1021,,2.47,,4730,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1022,,2.50,,5010,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1023,,2.53,,5190,,Granodiorite,Germany,Odenwald,Sonderbach,Paleozoic
+1024,2.68,2.51,,2980,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1025,2.61,2.51,,3050,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1026,2.61,2.51,,3050,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1027,,2.54,,2980,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1028,,2.54,,3050,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1029,0.34,2.67,,5350,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1030,,2.71,,4210,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1031,1.41,2.76,,4210,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1032,1.41,2.76,,4210,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1033,0.17,2.82,,5560,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1034,0.04,2.83,,5500,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1035,0.67,2.84,,5180,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1036,0.67,2.84,,5180,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1037,0.32,2.84,,5790,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1038,0.38,2.85,,5430,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1039,0.15,2.85,,5710,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1040,0.88,2.86,,4460,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1041,0.75,2.86,,5280,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1042,0.04,2.86,,5730,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1043,0.76,2.87,,4410,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1044,0.76,2.87,,4410,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1045,0.57,2.88,,5080,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1046,0.27,2.88,,5520,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1047,,2.89,,4460,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1048,0.42,2.89,,5380,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1049,0.03,2.90,,4740,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1050,0.59,2.90,,4950,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1051,,2.91,,5080,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1052,0.55,2.92,,4620,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1053,0.77,2.93,,5180,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1054,0.58,2.93,,5250,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1055,0.58,2.93,,5250,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1056,0.24,2.95,,5040,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1057,0.24,2.95,,5040,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1058,,2.96,,5180,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1059,0.46,2.96,,5730,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1060,0.46,2.96,,5780,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1061,,2.99,,5710,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1062,0.43,3.01,,5580,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1063,0.43,3.01,,5580,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1064,,3.02,,5040,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1065,0.10,3.11,,5530,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1066,0.50,3.15,,5530,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1067,0.57,3.18,,5120,,Granodiorite,Germany,Odenwald,Waldhambach,Carboniferous
+1068,,3.20,,5580,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1069,,3.39,,5120,,Granodiorite,Germany,Odenwald,Waldhambach,Paleozoic
+1070,4.83,1.78,,3530,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1071,8.16,1.87,,1900,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1072,8.17,2.03,,2310,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1073,9.44,2.27,,1800,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1074,3.33,2.77,,4880,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1075,3.28,2.79,,5570,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1076,3.79,2.82,,4430,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1077,3.17,2.91,,4680,,Granodiorite,Germany,Sprendlinger Horst,"Messel, Well GA2",Paleozoic
+1078,,2.27,,4080,,Granite,China,Gonghe Basin,,Triassic
+1079,,2.33,,3850,,Granite,China,Gonghe Basin,,Triassic
+1080,,2.33,,4140,,Granite,China,Gonghe Basin,,Triassic
+1081,,2.35,,4100,,Granite,China,Gonghe Basin,,Triassic
+1082,,2.36,,4130,,Granite,China,Gonghe Basin,,Triassic
+1083,,2.37,,4200,,Granite,China,Gonghe Basin,,Triassic
+1084,,2.44,,2920,,Granite,China,Gonghe Basin,,Triassic
+1085,,2.44,,3730,,Granite,China,Gonghe Basin,,Triassic
+1086,,2.49,,3720,,Granite,China,Gonghe Basin,,Triassic
+1087,,2.50,,3580,,Granite,China,Gonghe Basin,,Triassic
+1088,,2.51,,3390,,Granite,China,Gonghe Basin,,Triassic
+1089,,2.54,,6210,,Granite,China,Gonghe Basin,,Triassic
+1090,,2.56,,4430,,Granite,China,Gonghe Basin,,Triassic
+1091,,2.56,,6890,,Granite,China,Gonghe Basin,,Triassic
+1092,,2.58,,5190,,Granite,China,Gonghe Basin,,Triassic
+1093,,2.60,,4100,,Granite,China,Gonghe Basin,,Triassic
+1094,,2.63,,4230,,Granite,China,Gonghe Basin,,Triassic
+1095,,2.66,,5150,,Granite,China,Gonghe Basin,,Triassic
+1096,,2.70,,6900,,Granite,China,Gonghe Basin,,Triassic
+1097,,2.72,,4480,,Granite,China,Gonghe Basin,,Triassic
+1098,,2.73,,3770,,Granite,China,Gonghe Basin,,Triassic
+1099,,2.73,,6470,,Granite,China,Gonghe Basin,,Triassic
+1100,,2.73,,6660,,Granite,China,Gonghe Basin,,Triassic
+1101,,2.73,,5650,,Granite,China,Gonghe Basin,,Triassic
+1102,,2.74,,4390,,Granite,China,Gonghe Basin,,Triassic
+1103,,2.74,,3880,,Granite,China,Gonghe Basin,,Triassic
+1104,,2.74,,6460,,Granite,China,Gonghe Basin,,Triassic
+1105,,2.75,,6160,,Granite,China,Gonghe Basin,,Triassic
+1106,,2.76,,5680,,Granite,China,Gonghe Basin,,Triassic
+1107,,2.78,,4650,,Granite,China,Gonghe Basin,,Triassic
+1108,,2.78,,4540,,Granite,China,Gonghe Basin,,Triassic
+1109,,2.79,,4010,,Granite,China,Gonghe Basin,,Triassic
+1110,,2.80,,4160,,Granite,China,Gonghe Basin,,Triassic
+1111,,2.81,,3750,,Granite,China,Gonghe Basin,,Triassic
+1112,,2.81,,4590,,Granite,China,Gonghe Basin,,Triassic
+1113,,2.83,,6400,,Granite,China,Gonghe Basin,,Triassic
+1114,,2.83,,5750,,Granite,China,Gonghe Basin,,Triassic
+1115,,2.83,,4700,,Granite,China,Gonghe Basin,,Triassic
+1116,,2.86,,6020,,Granite,China,Gonghe Basin,,Triassic
+1117,,2.86,,4600,,Granite,China,Gonghe Basin,,Triassic
+1118,,2.86,,5540,,Granite,China,Gonghe Basin,,Triassic
+1119,,2.87,,5080,,Granite,China,Gonghe Basin,,Triassic
+1120,,2.88,,4060,,Granite,China,Gonghe Basin,,Triassic
+1121,,2.90,,5270,,Granite,China,Gonghe Basin,,Triassic
+1122,,2.90,,5390,,Granite,China,Gonghe Basin,,Triassic
+1123,,2.90,,5810,,Granite,China,Gonghe Basin,,Triassic
+1124,,2.91,,3780,,Granite,China,Gonghe Basin,,Triassic
+1125,,2.91,,4020,,Granite,China,Gonghe Basin,,Triassic
+1126,,2.92,,3920,,Granite,China,Gonghe Basin,,Triassic
+1127,,2.93,,4470,,Granite,China,Gonghe Basin,,Triassic
+1128,,2.94,,5630,,Granite,China,Gonghe Basin,,Triassic
+1129,,2.94,,4380,,Granite,China,Gonghe Basin,,Triassic
+1130,,2.94,,3410,,Granite,China,Gonghe Basin,,Triassic
+1131,,2.94,,6380,,Granite,China,Gonghe Basin,,Triassic
+1132,,2.95,,4390,,Granite,China,Gonghe Basin,,Triassic
+1133,,2.96,,4180,,Granite,China,Gonghe Basin,,Triassic
+1134,,2.96,,4230,,Granite,China,Gonghe Basin,,Triassic
+1135,,2.97,,6220,,Granite,China,Gonghe Basin,,Triassic
+1136,,2.97,,5390,,Granite,China,Gonghe Basin,,Triassic
+1137,,2.98,,4250,,Granite,China,Gonghe Basin,,Triassic
+1138,,3.00,,5850,,Granite,China,Gonghe Basin,,Triassic
+1139,,3.00,,4670,,Granite,China,Gonghe Basin,,Triassic
+1140,,3.00,,4280,,Granite,China,Gonghe Basin,,Triassic
+1141,,3.01,,5190,,Granite,China,Gonghe Basin,,Triassic
+1142,,3.02,,6130,,Granite,China,Gonghe Basin,,Triassic
+1143,,3.02,,4810,,Granite,China,Gonghe Basin,,Triassic
+1144,,3.05,,3880,,Granite,China,Gonghe Basin,,Triassic
+1145,,3.06,,4090,,Granite,China,Gonghe Basin,,Triassic
+1146,,3.07,,5480,,Granite,China,Gonghe Basin,,Triassic
+1147,,3.07,,4850,,Granite,China,Gonghe Basin,,Triassic
+1148,,3.09,,5210,,Granite,China,Gonghe Basin,,Triassic
+1149,,3.09,,6510,,Granite,China,Gonghe Basin,,Triassic
+1150,,3.10,,4330,,Granite,China,Gonghe Basin,,Triassic
+1151,,3.10,,6050,,Granite,China,Gonghe Basin,,Triassic
+1152,,3.11,,3660,,Granite,China,Gonghe Basin,,Triassic
+1153,,3.12,,4270,,Granite,China,Gonghe Basin,,Triassic
+1154,,3.12,,4970,,Granite,China,Gonghe Basin,,Triassic
+1155,,3.13,,4720,,Granite,China,Gonghe Basin,,Triassic
+1156,,3.15,,5160,,Granite,China,Gonghe Basin,,Triassic
+1157,,3.15,,6170,,Granite,China,Gonghe Basin,,Triassic
+1158,,3.15,,4870,,Granite,China,Gonghe Basin,,Triassic
+1159,,3.16,,3960,,Granite,China,Gonghe Basin,,Triassic
+1160,,3.16,,4540,,Granite,China,Gonghe Basin,,Triassic
+1161,,3.17,,4380,,Granite,China,Gonghe Basin,,Triassic
+1162,,3.18,,5360,,Granite,China,Gonghe Basin,,Triassic
+1163,,3.19,,4740,,Granite,China,Gonghe Basin,,Triassic
+1164,,3.21,,5450,,Granite,China,Gonghe Basin,,Triassic
+1165,,3.24,,4280,,Granite,China,Gonghe Basin,,Triassic
+1166,,3.26,,3360,,Granite,China,Gonghe Basin,,Triassic
+1167,,3.27,,6010,,Granite,China,Gonghe Basin,,Triassic
+1168,,3.28,,5380,,Granite,China,Gonghe Basin,,Triassic
+1169,,3.28,,4460,,Granite,China,Gonghe Basin,,Triassic
+1170,,3.32,,4480,,Granite,China,Gonghe Basin,,Triassic
+1171,3.28,2.90,,4040,,Granite,Germany,Odenwald,Darmstadt,Paleozoic
+1172,4.21,3.08,,5340,,Granite,Germany,Odenwald,Darmstadt,Paleozoic
+1173,,2.99,,4660,,Granite,Germany,Odenwald,Dieburg,Paleozoic
+1174,,3.05,,6820,,Granite,Germany,Odenwald,Dieburg,Paleozoic
+1175,,3.09,,4030,,Granite,Germany,Odenwald,Dieburg,Paleozoic
+1176,,3.47,,5770,,Granite,Germany,Odenwald,Dieburg,Paleozoic
+1177,,3.47,,5770,,Granite,Germany,Odenwald,Dieburg,Paleozoic
+1178,,2.47,,4370,,Granite,Germany,Odenwald,Edenkoben,Paleozoic
+1179,,2.48,,4530,,Granite,Germany,Odenwald,Edenkoben,Paleozoic
+1180,,2.51,,4410,,Granite,Germany,Odenwald,Edenkoben,Paleozoic
+1181,,2.51,,4420,,Granite,Germany,Odenwald,Edenkoben,Paleozoic
+1182,,2.52,,6010,,Granite,Germany,Odenwald,Heppenheim,
+1183,,2.54,,5690,,Granite,Germany,Odenwald,Heppenheim,
+1184,,2.56,,5350,,Granite,Germany,Odenwald,Heppenheim,
+1185,,2.57,,4360,,Granite,Germany,Odenwald,Heppenheim,
+1186,,2.58,,4820,,Granite,Germany,Odenwald,Heppenheim,
+1187,,2.60,,4920,,Granite,Germany,Odenwald,Heppenheim,
+1188,,2.63,,5590,,Granite,Germany,Odenwald,Heppenheim,
+1189,,2.63,,4710,,Granite,Germany,Odenwald,Heppenheim,
+1190,,2.69,,5350,,Granite,Germany,Odenwald,Heppenheim,
+1191,,2.71,,4180,,Granite,Germany,Odenwald,Heppenheim,
+1192,,2.75,,5910,,Granite,Germany,Odenwald,Heppenheim,
+1193,,2.75,,4340,,Granite,Germany,Odenwald,Heppenheim,
+1194,,2.78,,5310,,Granite,Germany,Odenwald,Heppenheim,
+1195,,2.80,,4940,,Granite,Germany,Odenwald,Heppenheim,
+1196,,2.94,,4700,,Granite,Germany,Odenwald,Heppenheim,
+1197,,3.29,,6080,,Granite,Germany,Sprendlinger Horst,Darmstadt,Paleozoic
+1198,,3.45,,5510,,Granite,Germany,Sprendlinger Horst,Darmstadt,Paleozoic
+1199,,3.55,,5480,,Granite,Germany,Sprendlinger Horst,Darmstadt,Paleozoic
+1200,,2.28,,6200,,Granite,,,,
+1201,,2.32,,6250,,Granite,,,,
+1202,,2.37,,5840,,Granite,,,,
+1203,,2.39,,6270,,Granite,,,,
+1204,,2.39,,6060,,Granite,,,,
+1205,,2.40,,5930,,Granite,,,,
+1206,,2.40,,6390,,Granite,,,,
+1207,,2.40,,5560,,Granite,,,,
+1208,,2.41,,6410,,Granite,,,,
+1209,,2.41,,6350,,Granite,,,,
+1210,,2.43,,5850,,Granite,,,,
+1211,,2.43,,6470,,Granite,,,,
+1212,,2.43,,5920,,Granite,,,,
+1213,,2.45,,7090,,Granite,,,,
+1214,,2.47,,6060,,Granite,,,,
+1215,,2.50,,6130,,Granite,,,,
+1216,,2.50,,6360,,Granite,,,,
+1217,,2.51,,6520,,Granite,,,,
+1218,,2.51,,6720,,Granite,,,,
+1219,,2.52,,5920,,Granite,,,,
+1220,,2.53,,6440,,Granite,,,,
+1221,,2.53,,6160,,Granite,,,,
+1222,,2.53,,6340,,Granite,,,,
+1223,,2.54,,5600,,Granite,,,,
+1224,,2.55,,6690,,Granite,,,,
+1225,,2.55,,6050,,Granite,,,,
+1226,,2.56,,6150,,Granite,,,,
+1227,,2.62,,6110,,Granite,,,,
+1228,,2.62,,6270,,Granite,,,,
+1229,,2.63,,6000,,Granite,,,,
+1230,,3.11,,4430,,Granite,,,,
+1231,10.76,1.34,,3910,,Basalt,Germany,Odenwald,Darmstadt,
+1232,13.02,1.43,,2870,,Basalt,Germany,Odenwald,Darmstadt,
+1233,3.68,1.77,,3900,,Basalt,Germany,Odenwald,Darmstadt,
+1234,1.18,1.83,,5380,,Basalt,Germany,Odenwald,Darmstadt,
+1235,,2.30,,5060,,Basalt,Germany,Odenwald,Roßdorf,
+1236,,2.35,,5930,,Basalt,Germany,Odenwald,Roßdorf,
+1237,,2.53,,6880,,Basalt,Germany,Odenwald,Roßdorf,
+1238,,2.53,,6920,,Basalt,Germany,Odenwald,Roßdorf,
+1239,,2.56,,6730,,Basalt,Germany,Odenwald,Roßdorf,
+1240,,2.61,,6980,,Basalt,Germany,Odenwald,Roßdorf,
+1241,,2.22,,5070,,Basalt,Germany,Rhön,Hilders,
+1242,,2.22,,5630,,Basalt,Germany,Rhön,Hilders,
+1243,,2.16,,5620,,Basalt,Germany,Vogelsberg,Alsfeld,Tertiary
+1244,,2.20,,6570,,Basalt,Germany,Vogelsberg,Alsfeld,Tertiary
+1245,,2.20,,5050,,Basalt,Germany,Vogelsberg,Alsfeld,Tertiary
+1246,,2.26,,6190,,Basalt,Germany,Vogelsberg,Alsfeld,Tertiary
+1247,,1.81,,4950,,Basalt,Germany,,,
+1248,,1.93,,5240,,Basalt,Germany,,,
+1249,,1.95,,6130,,Basalt,Germany,,,
+1250,,1.99,,6310,,Basalt,Germany,,,
+1251,,2.01,,5320,,Basalt,Germany,,,
+1252,,2.01,,6450,,Basalt,Germany,,,
+1253,,2.04,,4060,,Basalt,Germany,,,
+1254,,2.04,,6170,,Basalt,Germany,,,
+1255,,2.08,,5440,,Basalt,Germany,,,
+1256,,2.08,,5690,,Basalt,Germany,,,
+1257,,2.09,,6010,,Basalt,Germany,,,
+1258,,2.14,,4270,,Basalt,Germany,,,
+1259,2.10,2.24,,5140,,Basalt,Germany,,,
+1260,,2.34,,4160,,Basalt,Germany,,,
+1261,,2.52,,4480,,Basalt,Germany,,,
+1262,,2.55,,6900,,Basalt,Germany,,,
+1263,,1.25,,3810,,Basalt,Island,Reykjavik,,Quaternary
+1264,,1.29,,4060,,Basalt,Island,Reykjavik,,Quaternary
+1265,,1.29,,4360,,Basalt,Island,Reykjavik,,Quaternary
+1266,,1.29,,4140,,Basalt,Island,Reykjavik,,Quaternary
+1267,,1.29,,4160,,Basalt,Island,Reykjavik,,Quaternary
+1268,,1.30,,4030,,Basalt,Island,Reykjavik,,Quaternary
+1269,,1.31,,4260,,Basalt,Island,Reykjavik,,Quaternary
+1270,,1.31,,4140,,Basalt,Island,Reykjavik,,Quaternary
+1271,,1.32,,3930,,Basalt,Island,Reykjavik,,Quaternary
+1272,,1.32,,4120,,Basalt,Island,Reykjavik,,Quaternary
+1273,,1.32,,4350,,Basalt,Island,Reykjavik,,Quaternary
+1274,,1.33,,3990,,Basalt,Island,Reykjavik,,Quaternary
+1275,,1.33,,4110,,Basalt,Island,Reykjavik,,Quaternary
+1276,,1.34,,4150,,Basalt,Island,Reykjavik,,Quaternary
+1277,,1.34,,3820,,Basalt,Island,Reykjavik,,Quaternary
+1278,,1.35,,4300,,Basalt,Island,Reykjavik,,Quaternary
+1279,34.00,0.56,,1930,,Basalt,Island,,,Quaternary
+1280,7.50,0.89,,3710,,Basalt,Island,,,Quaternary
+1281,25.60,0.94,,3370,,Basalt,Island,,,Tertiary
+1282,22.80,1.01,,2520,,Basalt,Island,,,Quaternary
+1283,14.10,1.10,,2580,,Basalt,Island,,,Quaternary
+1284,15.70,1.13,,2700,,Basalt,Island,,,Quaternary
+1285,14.70,1.18,,4070,,Basalt,Island,,,Quaternary
+1286,11.10,1.22,,2520,,Basalt,Island,,,Quaternary
+1287,,1.25,,2790,,Basalt,Island,,,Quaternary
+1288,,1.31,,3030,,Basalt,Island,,,Quaternary
+1289,,1.51,,4230,,Basalt,Island,,,Quaternary
+1290,,1.59,,4200,,Basalt,Island,,,Quaternary
+1291,0.70,1.83,,5430,,Basalt,Island,,,Tertiary
+1292,0.70,1.85,,5740,,Basalt,Island,,,Tertiary
+1293,,1.93,,4800,,Basalt,Island,,,Tertiary
+1294,,1.52,,4640,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Al Ajib",Tertiary
+1295,,1.56,,5150,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Al Ajib",Tertiary
+1296,,1.58,,5510,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Al Ajib",Tertiary
+1297,,1.60,,5640,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Al Ajib",Tertiary
+1298,,1.65,,4870,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Al Ajib",Tertiary
+1299,,1.69,,5820,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Al Ajib",Tertiary
+1300,,1.41,,4610,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Alz Za`atri",Tertiary
+1301,,1.42,,4730,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Alz Za`atri",Tertiary
+1302,,1.58,,4280,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Alz Za`atri",Tertiary
+1303,,1.59,,5280,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Alz Za`atri",Tertiary
+1304,,1.60,,4710,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Alz Za`atri",Tertiary
+1305,,1.62,,4500,,Basalt,Jordan,Jordanian Harrat,"Zarqa, Wadi Alz Za`atri",Tertiary
+1306,2.50,1.50,,2760,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1307,4.22,1.50,,4470,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1308,4.62,1.53,,4330,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1309,3.44,1.57,,4030,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1310,2.06,1.60,,3020,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1311,3.05,1.62,,4310,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1312,13.74,1.63,,3770,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1313,3.56,1.64,,2670,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1314,3.48,1.65,,4480,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1315,0.98,1.67,,4520,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1316,3.84,1.67,,3680,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1317,2.91,1.68,,3560,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1318,2.19,1.69,,4670,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1319,1.87,1.71,,3420,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1320,1.46,1.71,,5030,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1321,1.09,1.71,,4900,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1322,0.50,1.71,,5020,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1323,1.68,1.71,,4700,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1324,1.35,1.72,,4820,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1325,0.88,1.74,,4910,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1326,2.10,1.74,,5200,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1327,1.21,1.75,,4730,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1328,2.09,1.76,,4580,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1329,1.08,1.77,,5220,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1330,1.33,1.77,,4830,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1331,0.82,1.78,,5150,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1332,2.25,1.80,,2620,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1333,0.85,2.54,,4980,,Andesite,New Zealand,Central Volcanic Zone,Papamoa,
+1334,13.16,1.44,,3190,,Andesite,New Zealand,Central Volcanic Zone,Tauhara,
+1335,10.42,1.51,,3090,,Andesite,New Zealand,Central Volcanic Zone,Tauhara,
+1336,6.77,1.87,,4670,,Andesite,New Zealand,Central Volcanic Zone,Tauhara,
+1337,14.21,1.13,,3950,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1338,11.02,1.17,,4550,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1339,1.44,1.77,,3980,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1340,2.08,1.84,,5380,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1341,1.50,1.86,,5130,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1342,0.49,1.89,,4060,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1343,1.57,1.89,,4480,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1344,1.57,1.91,,4620,,Andesite,New Zealand,Central Volcanic Zone,Tokaanu,
+1345,15.40,1.13,,3370,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1346,19.56,1.13,,3120,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1347,18.45,1.16,,2990,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1348,13.07,1.16,,3540,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1349,13.00,1.20,,3510,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1350,8.83,1.23,,2930,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1351,5.05,1.25,,3210,,Andesite,New Zealand,Central Volcanic Zone,Tongariro,
+1352,,2.54,,4260,,Rhyolite,Germany,Odenwald,Dossenheim,
+1353,,2.57,,4340,,Rhyolite,Germany,Odenwald,Dossenheim,
+1354,,2.57,,4350,,Rhyolite,Germany,Odenwald,Dossenheim,
+1355,,2.62,,3690,,Rhyolite,Germany,Odenwald,Dossenheim,
+1356,,2.64,,4350,,Rhyolite,Germany,Odenwald,Dossenheim,
+1357,,2.65,,3760,,Rhyolite,Germany,Odenwald,Dossenheim,
+1358,,2.65,,4770,,Rhyolite,Germany,Odenwald,Dossenheim,
+1359,,2.66,,4130,,Rhyolite,Germany,Odenwald,Dossenheim,
+1360,,2.72,,4480,,Rhyolite,Germany,Odenwald,Dossenheim,
+1361,,2.74,,4600,,Rhyolite,Germany,Odenwald,Dossenheim,
+1362,,2.78,,4830,,Rhyolite,Germany,Odenwald,Dossenheim,
+1363,,2.79,,5070,,Rhyolite,Germany,Odenwald,Dossenheim,
+1364,,2.81,,4350,,Rhyolite,Germany,Odenwald,Dossenheim,
+1365,,2.89,,4390,,Rhyolite,Germany,Odenwald,Dossenheim,
+1366,,3.08,,4540,,Rhyolite,Germany,Odenwald,Dossenheim,
+1367,,3.09,,5020,,Rhyolite,Germany,Odenwald,Dossenheim,
+1368,,3.21,,5800,,Rhyolite,Germany,Odenwald,Dossenheim,
+1369,,3.24,,5900,,Rhyolite,Germany,Odenwald,Dossenheim,
+1370,,3.28,,5200,,Rhyolite,Germany,Odenwald,Dossenheim,
+1371,,2.59,,3670,,Rhyolite,Germany,Odenwald,Weinheim,
+1372,,2.62,,3760,,Rhyolite,Germany,Odenwald,Weinheim,
+1373,,2.63,,4030,,Rhyolite,Germany,Odenwald,Weinheim,
+1374,,2.64,,4010,,Rhyolite,Germany,Odenwald,Weinheim,
+1375,,2.68,,4150,,Rhyolite,Germany,Odenwald,Weinheim,
+1376,,2.70,,4460,,Rhyolite,Germany,Odenwald,Weinheim,
+1377,,2.73,,4530,,Rhyolite,Germany,Odenwald,Weinheim,
+1378,,2.74,,4040,,Rhyolite,Germany,Odenwald,Weinheim,
+1379,,2.74,,4190,,Rhyolite,Germany,Odenwald,Weinheim,
+1380,,2.74,,3850,,Rhyolite,Germany,Odenwald,Weinheim,
+1381,,2.75,,4090,,Rhyolite,Germany,Odenwald,Weinheim,
+1382,,2.76,,4020,,Rhyolite,Germany,Odenwald,Weinheim,
+1383,,2.78,,3800,,Rhyolite,Germany,Odenwald,Weinheim,
+1384,,2.81,,4170,,Rhyolite,Germany,Odenwald,Weinheim,
+1385,,2.82,,4190,,Rhyolite,Germany,Odenwald,Weinheim,
+1386,,2.82,,4120,,Rhyolite,Germany,Odenwald,Weinheim,
+1387,,2.83,,3990,,Rhyolite,Germany,Odenwald,Weinheim,
+1388,,2.84,,3730,,Rhyolite,Germany,Odenwald,Weinheim,
+1389,,2.84,,4030,,Rhyolite,Germany,Odenwald,Weinheim,
+1390,,2.84,,3550,,Rhyolite,Germany,Odenwald,Weinheim,
+1391,,2.85,,4420,,Rhyolite,Germany,Odenwald,Weinheim,
+1392,,2.86,,3930,,Rhyolite,Germany,Odenwald,Weinheim,
+1393,,2.86,,3450,,Rhyolite,Germany,Odenwald,Weinheim,
+1394,,2.87,,4160,,Rhyolite,Germany,Odenwald,Weinheim,
+1395,,2.87,,3950,,Rhyolite,Germany,Odenwald,Weinheim,
+1396,,2.88,,3520,,Rhyolite,Germany,Odenwald,Weinheim,
+1397,,2.89,,4530,,Rhyolite,Germany,Odenwald,Weinheim,
+1398,,2.90,,3670,,Rhyolite,Germany,Odenwald,Weinheim,
+1399,,2.90,,4080,,Rhyolite,Germany,Odenwald,Weinheim,
+1400,,2.90,,4310,,Rhyolite,Germany,Odenwald,Weinheim,
+1401,,2.90,,4100,,Rhyolite,Germany,Odenwald,Weinheim,
+1402,,2.91,,3900,,Rhyolite,Germany,Odenwald,Weinheim,
+1403,,2.92,,3610,,Rhyolite,Germany,Odenwald,Weinheim,
+1404,,2.93,,3720,,Rhyolite,Germany,Odenwald,Weinheim,
+1405,,2.93,,3960,,Rhyolite,Germany,Odenwald,Weinheim,
+1406,,2.95,,4270,,Rhyolite,Germany,Odenwald,Weinheim,
+1407,,2.95,,4180,,Rhyolite,Germany,Odenwald,Weinheim,
+1408,,2.97,,4030,,Rhyolite,Germany,Odenwald,Weinheim,
+1409,,2.97,,4270,,Rhyolite,Germany,Odenwald,Weinheim,
+1410,,2.97,,3840,,Rhyolite,Germany,Odenwald,Weinheim,
+1411,,2.99,,4270,,Rhyolite,Germany,Odenwald,Weinheim,
+1412,,3.01,,4320,,Rhyolite,Germany,Odenwald,Weinheim,
+1413,,3.01,,4260,,Rhyolite,Germany,Odenwald,Weinheim,
+1414,,3.08,,4590,,Rhyolite,Germany,Odenwald,Weinheim,
+1415,28.91,0.87,,1570,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1416,24.05,0.89,,1140,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1417,23.65,0.89,,1710,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1418,23.72,0.92,,1590,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1419,26.24,0.95,,1440,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1420,31.88,0.98,,2320,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1421,22.40,0.98,,1650,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1422,25.79,1.02,,1360,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1423,23.81,1.03,,1720,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1424,18.70,1.11,,2840,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1425,17.82,1.12,,2710,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1426,19.49,1.15,,2540,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1427,20.07,1.17,,2380,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1428,20.78,1.17,,1960,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1429,20.71,1.20,,2660,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
+1430,22.10,1.21,,2670,,Rhyolite,New Zealand,Central Volcanic Zone,Rotorua,
