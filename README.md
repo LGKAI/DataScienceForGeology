@@ -1,3 +1,3 @@
-# Khoa học dữ liệu địa chất
+# Khoa học dữ liệu cho địa chất
 
 LGKAI - FIT - HCMUS
