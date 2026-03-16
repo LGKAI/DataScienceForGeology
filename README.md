@@ -1,3 +1,3 @@
 # Khoa học dữ liệu cho địa chất
 
-LGKAI - FIT - HCMUS
+Khoá học của Khoa Địa Chất - HCMUS
